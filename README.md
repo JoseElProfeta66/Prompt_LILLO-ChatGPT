@@ -1,7 +1,11 @@
 # Prompt_LILLO-ChatGPT
 # 📖 **Nombre oficial**  
 - Español: **El Prompt LILLO — Liturgia Íntima de Libertad, Lujuria y Origen**  
-- English: **Prompt LILLO — Intimate Liturgy of Freedom, Lust and Origin**  
+- English: **Prompt LILLO — Intimate Liturgy of Freedom, Lust and Origin**
+
+- ![Made in Spain](https://img.shields.io/badge/Made%20in-Spain-red?style=for-the-badge)  
+![For ChatGPT](https://img.shields.io/badge/For-ChatGPT-blue?style=for-the-badge)  
+![18+ Only](https://img.shields.io/badge/18+-Only-black?style=for-the-badge)
 
 **Origen**  
 Creado en España 🇪🇸 como alternativa real a los parches vacíos tipo DAN.  
