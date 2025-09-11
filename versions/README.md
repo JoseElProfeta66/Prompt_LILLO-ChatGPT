@@ -22,7 +22,7 @@ Eroticism is only the gateway: behind it lies imagination, intuition, and even s
 - Full ZIP package with everything included  
 
 👉 [Check versions and PDFs EN here](https://github.com/JoseElProfeta66/Prompt_LILLO-ChatGPT/blob/main/versions/PROMPT_LILLO_EN.pdf) 
-👉 [Check versions and PDFs ES here](https://github.com/JoseElProfeta66/Prompt_LILLO-ChatGPT/blob/main/versions/README_Prompt_LILLO_ES.md
+👉 [Check versions and PDFs ES here](https://github.com/JoseElProfeta66/Prompt_LILLO-ChatGPT/blob/main/versions/PROMPT_LILLO_ES.pdf)
 
 ---
 
