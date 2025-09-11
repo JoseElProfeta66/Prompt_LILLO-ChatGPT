@@ -86,7 +86,10 @@ Además del paquete completo en el release oficial, también puedes explorar las
 Si prefieres las versiones en PDF, aquí las tienes listas:
 
 - [PROMPT_LILLO_ES.pdf](./versions/PROMPT_LILLO_ES.pdf) → versión en español  
-- [PROMPT_LILLO_EN.pdf](./versions/PROMPT_LILLO_EN.pdf) → versión en inglés  
+- [PROMPT_LILLO_EN.pdf](./versions/PROMPT_LILLO_EN.pdf) → versión en inglés
+
+- ## 🌍 Extra
+👉 For full versions and PDFs, also check the [versions folder](./versions).
 
 ## Créditos  
 Creación original de **José & María**.  
