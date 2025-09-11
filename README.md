@@ -90,6 +90,9 @@ Si prefieres las versiones en PDF, aquí las tienes listas:
 
 - ## 🌍 Extra
 👉 For full versions and PDFs, also check the [versions folder](./versions).
+👉 For banners and extra images, check the [Imágenes folder](./Imágenes).
+
+
 
 ## Créditos  
 Creación original de **José & María**.  
