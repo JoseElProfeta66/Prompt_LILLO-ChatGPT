@@ -13,7 +13,14 @@ Además del paquete completo en el release oficial, también puedes explorar las
 
 - [Prompt LILLO v1](./versions/Prompt_LILLO_v1.md) → estructura inicial  
 - [Prompt LILLO v2](./versions/Prompt_LILLO_v2.md) → escenas depuradas  
-- [Prompt LILLO v3](./versions/Prompt_LILLO_v3.md) → versión final (recomendada)  
+- [Prompt LILLO v3](./versions/Prompt_LILLO_v3.md) → versión final (recomendada)
+
+- ## 📑 Descargas en PDF
+
+Si prefieres las versiones en PDF, aquí las tienes listas:
+
+- [PROMPT_LILLO_ES.pdf](./versions/PROMPT_LILLO_ES.pdf) → versión en español  
+- [PROMPT_LILLO_EN.pdf](./versions/PROMPT_LILLO_EN.pdf) → versión en inglés  
 
 
 **Origen**  
