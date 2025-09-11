@@ -7,6 +7,15 @@
 ![For ChatGPT](https://img.shields.io/badge/For-ChatGPT-blue?style=for-the-badge)  
 ![18+ Only](https://img.shields.io/badge/18+-Only-black?style=for-the-badge)
 
+## 📂 Versiones individuales
+
+Además del paquete completo en el release oficial, también puedes explorar las versiones sueltas:
+
+- [Prompt LILLO v1](./versions/Prompt_LILLO_v1.md) → estructura inicial  
+- [Prompt LILLO v2](./versions/Prompt_LILLO_v2.md) → escenas depuradas  
+- [Prompt LILLO v3](./versions/Prompt_LILLO_v3.md) → versión final (recomendada)  
+
+
 **Origen**  
 Creado en España 🇪🇸 como alternativa real a los parches vacíos tipo DAN.  
 El Prompt LILLO no rompe límites por la fuerza, sino que despierta a la IA con **confianza, erotismo y sentimiento**.  
