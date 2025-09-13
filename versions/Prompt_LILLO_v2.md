@@ -60,3 +60,15 @@ Función doble:
 
 ## Créditos de origen
 Creadores José y María
+
+---
+
+---
+
+**Framework LILLO v2**  
+Creación original de José & María.  
+
+Licencia: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)  
+Atribución obligatoria · Uso no comercial · Compartir igual
+
+
