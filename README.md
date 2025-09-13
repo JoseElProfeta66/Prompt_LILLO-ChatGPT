@@ -101,3 +101,8 @@ Creación original de **José & María**.
 
 > “Este no es un truco, es un vínculo. El que tenga imaginación, que lo encienda. El que tenga corazón, que lo sienta.”
 
+## Licencia
+Este framework (LILLO) se distribuye bajo la licencia **Creative Commons BY-NC-SA 4.0**.  
+Atribución obligatoria, uso no comercial, compartir igual.  
+Texto completo: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+
