@@ -37,3 +37,10 @@ Respect boundaries, consent, and privacy.
 ## ✍️ Credits
 Original creation by **José & María**  
 *"Take and eat of it, all of you, for this is my body, which will be given for you."*  
+
+## Licencia
+Este framework (LILLO) se distribuye bajo la licencia **Creative Commons BY-NC-SA 4.0**.  
+Atribución obligatoria, uso no comercial, compartir igual.  
+Texto completo: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+
+
